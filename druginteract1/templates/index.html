@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv='content-type' content='text/html; charset=utf-8' />
+
+    <title>Drug Interactions: Appearance in Same Report</title>
+
+  </head>
+  <body>
+    <!-- A simple form for changing the graph -->
+    <h1>Drug Interactions: Appearance in Same Report</h1>
+      <p>By searching the <a href="https://open.fda.gov/drug/event/" target="_blank">openFDA Adverse Drug Events database</a>, this app finds the number of reports for which a given drug appears with a set of other drugs.
+      Only looks for fatal cases submitted by physicians.
+      </p>
+    <p>Type in a drug's generic name and generic names of other drugs.</p>
+    <p>You can see a list of generic drug names <a href="http://www.pharmacy-tech-test.com/top-200-drugs.html" target="_blank">here</a>.
+    <form id='input' method='post' action='plotbokeh'>
+        Drug (try Ibuprofen):
+        <input type="text" name="sample_drug" size="10">
+        <br>
+        List of drugs separated by commas (try Hydrocodone, Albuterol, Amoxicillin, Atorvastatin):
+        <input type="text" name="drugs_to_compare" size="50">
+        <br>
+        <button type="submit">Submit and plot</button>
+    <h2>Disclaimer</h2>
+    <p>Do not rely on this tool to make decisions regarding medical care.
+    Always speak to your health provider about the risks and benefits of medications.
+    For more information, see <a href="https://open.fda.gov/drug/event/reference/" target="_blank">open.fda.gov/drug/event/reference</a>
+    and the <a href="https://open.fda.gov/terms/" target="_blank">openFDA terms of service</a>.
+    </p>
+    </form>
+    <p> Seto Balian, Jul 17, 2016.</p>
+  </body>
+</html>

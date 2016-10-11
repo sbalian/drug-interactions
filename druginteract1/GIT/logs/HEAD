@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 3ed13b578b7e86627e6448cef674f232677c5346 Seto Balian <seto.balian@gmail.com> 1468634085 -0700	commit (initial): First commit
+3ed13b578b7e86627e6448cef674f232677c5346 d37f62663aeae3464224ebad331f4ebc084a2d3c Seto Balian <seto.balian@gmail.com> 1468634159 -0700	commit: First commit, fixed requirements.txt
+d37f62663aeae3464224ebad331f4ebc084a2d3c 43b8471e08b94381c8035884b6d187ffcb2454d8 Seto Balian <seto.balian@gmail.com> 1468635332 -0700	commit: Added Flask
+43b8471e08b94381c8035884b6d187ffcb2454d8 8878fbf5814723fcbb4462bc8440d2e21c3adfdc Seto Balian <seto.balian@gmail.com> 1468643501 -0700	commit: This is not the entire repo, it's just the one hosted on Heroku github. Latest commit now has POST and GET methods and more HTML doc.
+8878fbf5814723fcbb4462bc8440d2e21c3adfdc 2f0b498325cf2ad817a0962e5ac8a8f5a58c18f3 Seto Balian <seto.balian@gmail.com> 1468644273 -0700	commit: More doc
+2f0b498325cf2ad817a0962e5ac8a8f5a58c18f3 ab651d434615082801d28e1e1801bbf9145d67fd Seto Balian <seto.balian@gmail.com> 1468800177 -0700	commit: Polished interaface and added disclaimer
+ab651d434615082801d28e1e1801bbf9145d67fd 7aaaf89dbc80acfc7632d067b2dedddb93e6c768 Seto Balian <seto.balian@gmail.com> 1468804235 -0700	commit: Cleanup and better doc.
