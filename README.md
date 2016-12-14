@@ -1,5 +1,5 @@
 ----
-See [GitHub](http://https://github.com/sbalian/drug-interactions) for latest version.
+See [GitHub](https://github.com/sbalian/drug-interactions) for latest version.
 ----
 
 This repository was migrated to GitHub and is no longer maintained on BitBucket.
