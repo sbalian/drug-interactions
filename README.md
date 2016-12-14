@@ -1,3 +1,7 @@
+This repository was migrated to GitHub and is no longer maintained on BitBucket.
+
+Please see https://github.com/sbalian/drug-interactions for the latest version.
+
 ----
 Drug interactions
 ----
@@ -15,4 +19,3 @@ Seto Balian
 <seto.balian@gmail.com>
 
 11 Oct 2016
-
